@@ -1,0 +1,6 @@
+@ReturnFileWebApi_HostAddress = http://localhost:5218
+
+GET {{ReturnFileWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
